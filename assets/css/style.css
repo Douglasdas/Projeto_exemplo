@@ -1,3 +1,8 @@
 body {
     margin: 0px;
 }
+
+header {
+        background: linear-gradient(70deg, #162a16, transparent);
+        }
+
