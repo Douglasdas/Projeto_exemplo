@@ -2,7 +2,23 @@ body {
     margin: 0px;
 }
 
-header {
+.cabecalho  {
         background: linear-gradient(70deg, #162a16, transparent);
         }
+.menu {
+        display: flex;
+        justify-content: center;
+        margin-top: 20px;
+    }
 
+    .menu a {
+        text-decoration: none;
+        font-weight: bold;
+        color: blue;
+        margin-right: 15px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        border: 1px solid blue;
+        padding: 10px;
+
+
+    }
